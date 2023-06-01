@@ -9,7 +9,7 @@
 ## Projects
 Here's my notable project:
 
-- [AndroBott](https://github.com/headrickleonard/AndroBott): AndroBott is a mobile chatbot app developed with Java and Android Studio. It provides an interactive chat interface for users to have conversations with a chatbot. The app leverages natural language processing and AI techniques to understand user queries and respond accordingly. It offers a user-friendly interface, personalized interactions, and customizable features.
+- [AndroBott]([https://github.com/headrickleonard/AndroBott]): AndroBott is a mobile chatbot app developed with Java and Android Studio. It provides an interactive chat interface for users to have conversations with a chatbot. The app leverages natural language processing and AI techniques to understand user queries and respond accordingly. It offers a user-friendly interface, personalized interactions, and customizable features.
 
 Feel free to explore the repository to learn more about AndroBott and view the source code.
 
