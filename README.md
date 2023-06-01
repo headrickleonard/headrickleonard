@@ -3,7 +3,7 @@
 ## About Me
 - [x] Full Stack Web and Mobile App Developer
 - [x] Specializing in Frontend Development with HTML, CSS, Vue.js, Bootstrap, and Material-UI
-- [x] Experienced in Backend Development with Node.js Express and MongoDB MYSQL firebase
+- [x] Experienced in Backend Development with Node.js, Express,MongoDB,MYSQL and firebase
 - [x] Proficient in Mobile App Development with Java
 
 ## Projects
