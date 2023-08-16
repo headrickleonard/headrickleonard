@@ -19,7 +19,7 @@ Feel free to explore the repository to learn more about AndroBott and view the s
 - Databases: MongoDB
 - Mobile App Development: Java, Android Studio
 - API Integration: Experience working with various APIs and libraries
--Prompt engineering 
+- Prompt engineering 
 
 ## Get in Touch
 - [LinkedIn](https://www.linkedin.com/in/headrick-leonard-a0930224a)
