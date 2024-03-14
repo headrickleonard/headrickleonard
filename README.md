@@ -1,23 +1,18 @@
-# Welcome to Headrick Leonard's GitHub Profile!
+# Headrick Leonard
 
 ## About Me
-- [x] Full Stack Web and Mobile App Developer
-- [x] Specializing in Frontend Development with HTML, CSS, Vue.js, Bootstrap, and Material-UI
-- [x] Experienced in Backend Development with Node.js, Express,MongoDB,MYSQL and firebase
-- [x] Proficient in Mobile App Development with Java
+- [x] Full Stack developer 
+- [x] frontend developer 
+- [x] react developer 
+- [x] JavaScript developer
+- [x] mobile developer 
 
-## Projects
-Here's my notable project:
-
-- [[AndroBott](https://github.com/headrickleonard/AndroBott)](https://github.com/headrickleonard/Androbot): AndroBott is a mobile chatbot app developed with Java and Android Studio. It provides an interactive chat interface for users to have conversations with a chatbot. The app leverages natural language processing and AI techniques to understand user queries and respond accordingly. It offers a user-friendly interface, personalized interactions, and customizable features.
-
-Feel free to explore the repository to learn more about AndroBott and view the source code.
 
 ## Skills
-- Frontend Technologies: HTML, CSS, Vue.js, Bootstrap, Material-UI
+- Frontend Technologies: HTML, CSS, Vue.js, react.js,Bootstrap, Material-UI, tailwind css
 - Backend Technologies: Node.js, Express
 - Databases: MongoDB
-- Mobile App Development: Java, Android Studio
+- Mobile App Development: Java,React native.
 - API Integration: Experience working with various APIs and libraries
 - Prompt engineering 
 
