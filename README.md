@@ -72,7 +72,4 @@ I am a born-again Christian and my faith is a cornerstone of my life and work.
 
 ---
 
-## Me on daily dev
-
-<a href="https://app.daily.dev/headrick"><img src="https://api.daily.dev/devcards/v2/aHNXrFgU4nr4tLeAllBtn.png?type=wide&r=h1w" width="652" alt="Headrick Osward Leonard's Dev Card"/></a>
 Thank you for visiting my GitHub profile. Feel free to explore my projects, get in touch, and have a great day!
