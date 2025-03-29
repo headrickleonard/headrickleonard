@@ -15,8 +15,8 @@ I'm a passionate **Full Stack Developer** with expertise in building modern, res
 ## 🚀 Skills & Technologies
 
 ### **Frontend**
-- **Languages**: JavaScript (ES6+), HTML5, CSS3
-- **Libraries & Frameworks**: React.js, Vue.js, Tailwind CSS, Material-UI, Bootstrap, Ant Design
+- **Languages**: JavaScript (ES6+),Rust,Python,Java, HTML5, CSS3
+- **Libraries & Frameworks**: React.js, Next.js, Vue.js, Tailwind CSS, Material-UI, Bootstrap, Ant Design,RN
 - **State Management**: Redux, React Query, Zustand
 - **CSS Frameworks**: Tailwind CSS, Bootstrap, Material-UI
 - **Other Tools**: Vite, Webpack, Babel, Framer Motion
@@ -25,18 +25,18 @@ I'm a passionate **Full Stack Developer** with expertise in building modern, res
 - **Languages**: JavaScript (Node.js), Java, C/C++
 - **Frameworks**: Express.js, Microservices with Molecular
 - **Databases**: MongoDB, Firebase (NoSQL)
-- **Authentication**: JWT, OAuth, Firebase Auth
+- **Authentication**: JWT, OAuth, Firebase Auth,Auth0,Cognito.
 
-### **Mobile Development**
-- **Frameworks**: React Native, Expo
-- **Platforms**: Android, iOS
+### **Mobile && Desktop Development**
+- **Frameworks**: React Native, Expo,Electron,Tauri
+- **Platforms**: Android, iOS,Windows,MacOs
 
 ### **DevOps & Tools**
-- **Version Control**: Git, GitHub
-- **Deployment**: Vercel, Netlify, Heroku
+- **Version Control**: Git, GitHub,Gitlab
+- **Deployment**: Vercel, Netlify, Heroku,AWS
 - **Testing**: Jest, React Testing Library
 - **CI/CD**: GitHub Actions, CircleCI
-- **Containers**: Docker (basic understanding)
+- **Containers**: Docker
 
 ### **Libraries**
 - **Country Selector Library**: A reusable React component for selecting countries, complete with country flags and dial codes.
