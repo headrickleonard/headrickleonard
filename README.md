@@ -50,39 +50,15 @@ I'm a **Full Stack Developer** passionate about building modern, responsive, and
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Metrics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=headrickleonard&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
----
-
-## 🔥 Contributions & Activity
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=headrickleonard&hide_border=true&theme=tokyonight)
+![GitHub Metrics](https://metrics.lecoq.io/headrickleonard?template=classic&repositories=starred&activity=false&isocalendar=false&followup=false&nightscout=false)
 
 ---
 
-## 💻 Most Used Languages
+## 🔥 Contribution Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=headrickleonard&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
----
-
-## 📈 GitHub Metrics
-
-![GitHub Metrics](/github-metrics.svg)
-
----
-
-## 🎯 Projects & Contributions
-
-![Repos Stats](https://github-readme-stats.vercel.app/api/pin/?username=headrickleonard&repo=headrickleonard&theme=tokyonight&hide_border=true)
-
----
-
-## 📚 Open Source Involvement
-
-![GitHub Activity](https://activity-graph.herokuapp.com/graph?username=headrickleonard&theme=tokyo-night&hide_border=true)
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=headrickleonard&theme=tokyo-night&bg_color=1a1b27&color=38bdae&line=38bdae&point=38bdae&area=true&hide_border=true)
 
 ---
 
