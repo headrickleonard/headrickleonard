@@ -73,6 +73,13 @@ I'm a **Full Stack Developer** passionate about building modern, responsive, and
 ## ⏱️ Wakatime Weekly Stats
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 23 June 2026 - To: 30 June 2026
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 ---
