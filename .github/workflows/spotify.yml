@@ -14,13 +14,8 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       
-      - name: Update Spotify Status
-        uses: kittinan/spotify-github-profile@master
-        with:
-          title: "🎵 Currently Vibing To"
-          CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
-          CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
-          REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
+      - name: Update Spotify SVG
+        uses: novatorem/novatorem@master
       
       - name: Commit changes
         run: |
