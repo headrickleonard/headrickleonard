@@ -52,13 +52,40 @@ I'm a **Full Stack Developer** passionate about building modern, responsive, and
 
 ## 📊 GitHub Metrics
 
-![GitHub Metrics](https://metrics.lecoq.io/headrickleonard?template=classic&repositories=starred&activity=false&isocalendar=false&followup=false&nightscout=false)
+![GitHub Metrics](https://metrics.lecoq.io/headrickleonard?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&isocalendar=true&isocalendar.duration=full-year&repositories=starred&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner%2Ccontributor%2Corganization_member&traffic=false&config.timezone=America%2FChicago&config.padding=6%25&config.outputs=auto)
 
 ---
 
-## 🔥 Contribution Stats
+## 🔥 Contribution Activity & Streak
 
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=headrickleonard&theme=tokyo-night&bg_color=1a1b27&color=38bdae&line=38bdae&point=38bdae&area=true&hide_border=true)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=headrickleonard&theme=tokyo-night&bg_color=1a1b27&color=38bdae&line=38bdae&point=38bdae&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=headrickleonard&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
+
+---
+
+## 💻 Most Used Languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=headrickleonard&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="100%" />
+
+---
+
+## 📈 GitHub Stats Overview
+
+<img src="https://github-readme-stats.vercel.app/api?username=headrickleonard&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="100%" />
+
+---
+
+## 🔥 Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
+## 📚 Open Source Involvement
+
+I actively contribute to open-source projects and believe in the power of collaboration. Check out my repositories to see what I'm working on!
 
 ---
 
