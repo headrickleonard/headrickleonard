@@ -13,6 +13,12 @@ Welcome to my GitHub profile. I'm passionate about building things and contribut
 
 ---
 
+## 🎵 Currently Vibing To
+
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=headrickleonard&cover_image=true&theme=compact)](https://github.com/kittinan/spotify-github-profile)
+
+---
+
 ## 💡 About Me
 
 I'm a **Full Stack Developer** passionate about building modern, responsive, and scalable web and mobile applications. I specialize in crafting intuitive front-end experiences while maintaining robust backend systems. Always learning, always coding. 🚀
@@ -64,15 +70,16 @@ I'm a **Full Stack Developer** passionate about building modern, responsive, and
 
 ---
 
-## 💻 Most Used Languages
+## ⏱️ Wakatime Weekly Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=headrickleonard&show_icons=true&locale=en&layout=vertical&theme=tokyonight&hide_border=true" alt="Top Languages" width="100%" />
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 
-## 📈 GitHub Stats Overview
+## 🐍 Watch The Snake Eating My Contributions
 
-<img src="https://github-readme-stats.vercel.app/api?username=headrickleonard&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" alt="GitHub Stats" width="100%" />
+![snake gif](https://github.com/headrickleonard/headrickleonard/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
