@@ -52,18 +52,37 @@ I'm a **Full Stack Developer** passionate about building modern, responsive, and
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](/github-metrics.svg)
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=headrickleonard&hide_border=true&theme=dark" alt="GitHub Streak" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=headrickleonard&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=headrickleonard&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 ---
 
-## 🔥 Recent Activity
+## 🔥 Contributions & Activity
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=headrickleonard&hide_border=true&theme=tokyonight)
+
+---
+
+## 💻 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=headrickleonard&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
+---
+
+## 📈 GitHub Metrics
+
+![GitHub Metrics](/github-metrics.svg)
+
+---
+
+## 🎯 Projects & Contributions
+
+![Repos Stats](https://github-readme-stats.vercel.app/api/pin/?username=headrickleonard&repo=headrickleonard&theme=tokyonight&hide_border=true)
+
+---
+
+## 📚 Open Source Involvement
+
+![GitHub Activity](https://activity-graph.herokuapp.com/graph?username=headrickleonard&theme=tokyo-night&hide_border=true)
 
 ---
 
@@ -76,12 +95,6 @@ I'm a **Full Stack Developer** passionate about building modern, responsive, and
 - Backend Development (Express.js, MongoDB)
 - DevOps & Deployment
 - Continuous learning and exploring new technologies
-
----
-
-## 📚 Open Source Projects
-
-I actively contribute to open-source projects and believe in the power of collaboration. Check out my repositories to see what I'm working on!
 
 ---
 
