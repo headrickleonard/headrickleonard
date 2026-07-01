@@ -1,75 +1,109 @@
-# Headrick Leonard
+# Hey there! 👋
 
-## 👋 About Me
-I'm a passionate **Full Stack Developer** with expertise in building modern, responsive, and scalable web and mobile applications. I specialize in crafting intuitive front-end user experiences and robust back-end solutions using the latest technologies. With a focus on clean code, best practices, and continuous learning, I strive to deliver impactful software.
-
-## 💼 What I Do
-- Full Stack Development (MERN stack)
-- Frontend Development with a focus on React
-- Mobile App Development (React Native, Expo)
-- API Design & Integration
-- Backend Development (Express.js, MongoDB)
-- Microservices with Molecular
-- Continuous learning and exploring new technologies
-
-## 🚀 Skills & Technologies
-
-### **Frontend**
-- **Languages**: JavaScript (ES6+),Rust,Python,Java, HTML5, CSS3
-- **Libraries & Frameworks**: React.js, Next.js, Vue.js, Tailwind CSS, Material-UI, Bootstrap, Ant Design,RN
-- **State Management**: Redux, React Query, Zustand
-- **CSS Frameworks**: Tailwind CSS, Bootstrap, Material-UI
-- **Other Tools**: Vite, Webpack, Babel, Framer Motion
-
-### **Backend**
-- **Languages**: JavaScript (Node.js), Java, C/C++
-- **Frameworks**: Express.js, Microservices with Molecular
-- **Databases**: MongoDB, Firebase (NoSQL)
-- **Authentication**: JWT, OAuth, Firebase Auth,Auth0,Cognito.
-
-### **Mobile && Desktop Development**
-- **Frameworks**: React Native, Expo,Electron,Tauri
-- **Platforms**: Android, iOS,Windows,MacOs
-
-### **DevOps & Tools**
-- **Version Control**: Git, GitHub,Gitlab
-- **Deployment**: Vercel, Netlify, Heroku,AWS
-- **Testing**: Jest, React Testing Library
-- **CI/CD**: GitHub Actions, CircleCI
-- **Containers**: Docker
-
-### **Libraries**
-- **Country Selector Library**: A reusable React component for selecting countries, complete with country flags and dial codes.
-- **React-juno**: A command-line tool to bootstrap a new React project with Vite and Tailwind CSS, including configurations for Redux, React Router, ESLint, Prettier, and Jest.
-
-### **Miscellaneous**
-- **API Integration**: RESTful APIs, GraphQL, Axios
-- **Prompt Engineering**: Experience designing AI prompts
-- **Security**: SHA-256, JWT-based authentication
-
-## 🌍 Get in Touch
-Let's connect and collaborate! I'm always open to exciting projects and new ideas.
-
-- [LinkedIn](https://www.linkedin.com/in/headrick-leonard-a0930224a)
-- [Twitter](https://twitter.com/headric_leonard?t=GTrZr_6ryyu3RbcNmBL1MQ&s=08)
-- [Email](mailto:headricleonard@gmail.com)
+Welcome to my GitHub profile. I'm passionate about building things and contributing to the open-source community.
 
 ---
 
-## 🤝 Contributions & Open Source
-I actively contribute to open-source projects and believe in the power of collaboration to advance the software community. Explore my repositories to see what I'm working on, and let's join forces to build something amazing!
+## 🔗 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/-headrickleonard-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/headrickleonard)
+[![LinkedIn](https://img.shields.io/badge/-headrickleonard-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/headrick-leonard-a0930224a)
+[![Twitter](https://img.shields.io/badge/-@headric__leonard-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/headric_leonard)
+[![Gmail](https://img.shields.io/badge/-headricleonard@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:headricleonard@gmail.com)
+
+---
+
+## 💡 About Me
+
+I'm a **Full Stack Developer** passionate about building modern, responsive, and scalable web and mobile applications. I specialize in crafting intuitive front-end experiences while maintaining robust backend systems. Always learning, always coding. 🚀
+
+---
+
+## 🛠️ Tech Stack
+
+### **Frontend**
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+
+### **Backend**
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+### **Mobile & Desktop**
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Expo](https://img.shields.io/badge/-Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+
+### **DevOps & Tools**
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](/github-metrics.svg)
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=headrickleonard&hide_border=true&theme=dark" alt="GitHub Streak" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=headrickleonard&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+
+---
+
+## 🔥 Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
+## 💼 What I Do
+
+- Full Stack Development (MERN stack)
+- Frontend Development with a focus on React & Next.js
+- Mobile App Development (React Native, Expo)
+- API Design & Integration
+- Backend Development (Express.js, MongoDB)
+- DevOps & Deployment
+- Continuous learning and exploring new technologies
+
+---
+
+## 📚 Open Source Projects
+
+I actively contribute to open-source projects and believe in the power of collaboration. Check out my repositories to see what I'm working on!
 
 ---
 
 ## 🎨 Hobbies & Interests
-- Music
-- Travel
-- Shopping
-- Hiking
+
+- 🎵 Music
+- 🌍 Travel
+- 🏔️ Hiking
+- 💻 Building cool projects
+
+---
 
 ## ✝️ Faith
+
 I am a born-again Christian and my faith is a cornerstone of my life and work.
 
 ---
 
-Thank you for visiting my GitHub profile. Feel free to explore my projects, get in touch, and have a great day!
+## 📈 Let's Build Together
+
+Feel free to reach out if you want to collaborate, discuss tech, or just chat about code! I'm always open to exciting projects and new ideas. 🚀
+
+---
+
+**Thank you for visiting my GitHub profile!** 🙏
