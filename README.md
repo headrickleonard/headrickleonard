@@ -15,7 +15,7 @@ Welcome to my GitHub profile. I'm passionate about building things and contribut
 
 ## 🎵 Currently Vibing To
 
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=headrickleonard&cover_image=true&theme=compact)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31nfgcuth7wdma6dsdl5ski5srza&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 ---
 
