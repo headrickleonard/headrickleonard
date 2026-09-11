@@ -118,8 +118,8 @@ I actively contribute to open-source projects and believe in the power of collab
 ## 🎨 Hobbies & Interests
 
 - 🎵 Music
-- 🌍 Travel
 - 🏔️ Hiking
+- 🍝 Food
 - 💻 Building cool projects
 
 ---
@@ -135,5 +135,3 @@ I am a born-again Christian and my faith is a cornerstone of my life and work.
 Feel free to reach out if you want to collaborate, discuss tech, or just chat about code! I'm always open to exciting projects and new ideas. 🚀
 
 ---
-
-**Thank you for visiting my GitHub profile!** 🙏
