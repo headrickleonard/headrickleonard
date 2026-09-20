@@ -75,7 +75,7 @@ I'm a **Full Stack Developer** passionate about building modern, responsive, and
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 September 2026 - To: 17 September 2026
+From: 12 September 2026 - To: 19 September 2026
 
 No activity tracked
 ```
